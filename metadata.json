@@ -1,0 +1,7 @@
+{
+  "name": "Compliance Dashboard",
+  "description": "A high-stakes regulatory compliance dashboard for monitoring DPDPA, NMC, MHA, and IT Act adherence with real-time risk alerts and automated scoring.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
